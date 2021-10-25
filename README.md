@@ -1,12 +1,5 @@
 ### Olá, Bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
-
-### Sobre
-
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ph-gonzaga&show_icons=true)
-
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-gonzaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Tecnologias e ferramentas
 
 <code><img height="20" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></code>
@@ -22,6 +15,13 @@
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></code>
+
+### Sobre
+
+![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=ph-gonzaga&show_icons=true)
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-gonzaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **ph-gonzaga/ph-gonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
