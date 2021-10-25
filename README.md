@@ -1,6 +1,6 @@
 ### Olá, Bem-vindo(a)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
-- QA Software Testing | Analista de Qualidade de Software | Automação de Testes
+QA Software Testing | Analista de Qualidade de Software | Automação de Testes
 
 ### Tecnologias e ferramentas
 
