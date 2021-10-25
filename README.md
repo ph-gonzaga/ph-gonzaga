@@ -2,7 +2,7 @@
 
 QA Software Testing | Analista de Qualidade de Software | Automação de Testes
 
-### Tecnologias e ferramentas
+### Tecnologias e Ferramentas
 
 <code><img height="20" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
