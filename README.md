@@ -1,4 +1,4 @@
-### Olá! 👋
+### Olá! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
 
 
 ### Sobre
@@ -13,6 +13,10 @@
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
+
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' height="50em" width="50em"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' height="50em" width="50em"/>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' height="50em" width="50em"/>
 
 <!--
 **ph-gonzaga/ph-gonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
