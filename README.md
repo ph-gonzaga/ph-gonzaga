@@ -7,10 +7,10 @@
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ph-gonzaga&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### Tecnologias e ferramentas
+
 <code><img height="20" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"></code>
-
-### Tecnologias e ferramentas
 
 <code><img height="20" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
